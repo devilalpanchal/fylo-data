@@ -1,6 +1,7 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 *{
     margin: 0;padding: 0;
     box-sizing: border-box;
@@ -124,8 +125,8 @@ background-color: #0b122b;
 }
 .info{
     position: absolute;
-    top: 213px;
-    right: 235px;
+    top: 300px;
+    right: 240px;
     display: flex;
     justify-content: center;
     align-items: center;
