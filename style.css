@@ -25,12 +25,12 @@ background-position: bottom;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 25px;
+    gap: 30px;
 }
 .section-01{
     color: wheat;
-    width: 330px;
-    height: 200px;
+    width: 360px;
+    height: 210px;
     gap: 25px;
     display: flex;
     justify-content: center;
@@ -66,7 +66,7 @@ background-color: #0b122b;
 }
 
 .section-02{
-    width: 570px;
+    width: 590px;
     height: 160px;
     margin-top: 45px;
     border-radius: 10px;
@@ -126,7 +126,7 @@ background-color: #0b122b;
 .info{
     position: absolute;
     top: 300px;
-    right: 240px;
+    right: 280px;
     display: flex;
     justify-content: center;
     align-items: center;
